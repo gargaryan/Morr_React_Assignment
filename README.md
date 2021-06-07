@@ -5,20 +5,20 @@ As Mentioned in the Desciption of the Assignment that we have  make Three Pages 
 <li>Series</li>
 <li>Movies</li>
 </ul>
- => So, i follow  the instruction of the document and Decided to follow the below steps:
+ => So,  I go through the document you have sent and worked accordingly.the procedure of my given assignement as listed below:
 <ul>
-<li>Initially i decide  to make the component  of these three above mentioned.</li>
-<li>Making the content of each page as component like Header comoonent, Footer Component, Content Component etc.</li>
-<li>Then,Linking of each Page( by  React-Routing ) </li>
+<li>Initially i decide  to make the components of  above listed pages.</li>
+<li>Making the content of each page as component like Header, Footer, Content etc.</li>
+<li>Then,I Linked all pages through Routing.</li>
 <li>Fetch the Json file in Series and Movies component.</li>
-<li> Display the item According to the condition given in the Assignment.For Sorting the element I import underscore(_) library of React.</li>
+<li> Display the item According.For Sorting the elements I import underscore(_) library of React.</li>
 <li> Implementing the Error Status Mechanism while fetching the data from Json File.</li>
-<li>Finally, upload the Assignment on the Github. Files do not contain node modules so for this you  should  install React in the System when starting the Project. </li>
+<li>Finally, upload the Assignment on the Github. Files do not contain node modules so for this you must install React in the System while running the Project. </li>
 </ul> 
 
 # Are there any improvements you could make to your submission?
 <ul>
-<li>I glad that I done the Assignment  as per the company fullfillment .There might be many improvements but I noticed that I could make the Ui more better and add more functionality to it like i could make login Page And signup Page. </li>
+<li>I glad that I have done the Assignment as per the company requirements.There might be many improvements but I noticed that I could make the Ui more better and add more functionality to it like i could make login Page And signup Page. </li>
 </ul>
 
 # What would you do differently if you were allocated more time?
