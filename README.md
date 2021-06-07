@@ -11,7 +11,7 @@ As Mentioned in the Desciption of the Assignment that we have  make Three Pages 
 <li>Making the content of each page as component like Header, Footer, Content etc.</li>
 <li>Then,I Linked all pages through Routing.</li>
 <li>Fetch the Json file in Series and Movies component.</li>
-<li> Display the item According.For Sorting the elements I import underscore(_) library of React.</li>
+<li> Display the item accordingly.For Sorting the elements I import underscore(_) library of React.</li>
 <li> Implementing the Error Status Mechanism while fetching the data from Json File.</li>
 <li>Finally, upload the Assignment on the Github. Files do not contain node modules so for this you must install React in the System while running the Project. </li>
 </ul> 
